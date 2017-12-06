@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HashGuessing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HashGuessing_jar</output-path>
+    <root id="archive" name="HashGuessing.jar">
+      <element id="module-output" name="HashGuessing" />
+    </root>
+  </artifact>
+</component>
